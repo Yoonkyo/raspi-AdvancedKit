@@ -1,4 +1,4 @@
-# raspi-AdvancedKit
+# raspi-AdvancedKit (임베디드 수업 자료)
 
 엘레파츠 [라즈베리파이 고급키트](https://www.eleparts.co.kr/EPXHTPVH)의 파이썬 기반 예제 코드/사용법이 안내되어있는 GitHub 저장소 입니다.  
 
