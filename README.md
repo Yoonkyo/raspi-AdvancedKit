@@ -25,3 +25,14 @@ ls -l
 [엘레파츠 네이버 블로그 - 라즈베리파이 고급키트 / 검색 페이지](https://blog.naver.com/PostSearchList.nhn?blogId=elepartsblog&categoryNo=0&range=all&SearchText=%EB%9D%BC%EC%A6%88%EB%B2%A0%EB%A6%AC%ED%8C%8C%EC%9D%B4+%EA%B3%A0%EA%B8%89+%ED%82%A4%ED%8A%B8)  
 
 ※ 일부 부품에 한해 예제가 제공되지 않을 수 있습니다.  
+
+### 수업내용 관련 포스팅 링크
+
+1. 시작하기 - LED 제어
+https://blog.naver.com/elepartsblog/221502439701
+
+2. RGB LED 모듈 
+https://blog.naver.com/elepartsblog/221504611388
+
+3. 서보모터
+https://blog.naver.com/elepartsblog/221502439701
