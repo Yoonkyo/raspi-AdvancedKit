@@ -11,7 +11,7 @@
 라즈베리파이에서 터미널 창을 열어 아래 명령어로 다운로드할 수 있습니다.  
 
 ```bash
-git clone https://github.com/eleparts/raspi-AdvancedKit
+git clone https://github.com/Yoonkyo/raspi-AdvancedKit
 
 # 예제 디렉토리로 이동
 cd raspi-AdvancedKit
