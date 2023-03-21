@@ -1,6 +1,7 @@
 import RPi.GPIO as GPIO
 import time
 
+GPIO.setwarnings(False)         # 오류 무시
 GPIO.setmode(GPIO.BCM)          # GPIO BCM 모드 설정
 
 LED = 21 # BCM P21
