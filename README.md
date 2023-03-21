@@ -35,4 +35,4 @@ https://blog.naver.com/elepartsblog/221502439701
 https://blog.naver.com/elepartsblog/221504611388
 
 3. 서보모터
-https://blog.naver.com/elepartsblog/221502439701
+https://blog.naver.com/elepartsblog/221506211679
