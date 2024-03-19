@@ -7,6 +7,7 @@
 자세한 사항은 블로그 설명을 참고해 주세요.  
 
 ![led](https://blogfiles.pstatic.net/MjAxOTA0MDFfMTE5/MDAxNTU0MDc4NjYzNzAx.RjTr-_Uziw45l2dEqR10W1ylxV0KWT6hDKgdcxPuHMgg.8UUVfboDLBn-d2mxvrFG4ldxSjqYJobnbNe_y9ajwM8g.PNG.elepartsblog/4.PNG?type=w2)
+![image](01.led_pi400.jpg)
 
 ## 예제 실행  
 
