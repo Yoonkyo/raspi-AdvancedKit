@@ -10,6 +10,8 @@
 
 ![rgb_led2](https://blogfiles.pstatic.net/MjAxOTA0MDNfMjky/MDAxNTU0Mjc4Nzc4OTE2.NnBoz2HF74ANnZcEGm_85XBqrdf1mcH6Qye8ySBZDUMg.GUjtz195pypSHnM3SXg7JcTvGAZSS-2adp2pZDfaFXcg.JPEG.elepartsblog/RGB.jpg?type=w2)
 
+![image](02.RGB_led_pi400.jpg)
+
 ## 예제 실행  
 
 ### GUI 환경에서 실행  
